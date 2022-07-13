@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "fullName": "Jenny Chan",
+    "age": "30",
+    "nickName": "Jen"
+  },
+  {
+    "id": 2,
+    "fullName": "Jessica Warren",
+    "age": "24" ,
+    "nickName": "Wary"
+  },
+  {
+    "id": 3,
+    "fullName": "Tony Frank",
+    "age": "26" ,
+    "nickName": "Tom"
+  },
+  {
+    "id": 4,
+    "fullName": "Jeremy Clark",
+    "age": "22" ,
+    "nickName": "Gym"
+  },
+  {
+    "id": 5,
+    "fullName": "Raymond Edwards",
+    "age": "26" ,
+    "nickName": "Ray"
+  }
+]
